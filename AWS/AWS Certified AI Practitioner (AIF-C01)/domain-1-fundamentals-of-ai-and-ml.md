@@ -552,7 +552,7 @@ Each of these is a portable rule. The wording will change; the trap will not.
 
 Finished this domain? Put your knowledge into practice with the DataCertLab AIF-C01 Practice Tests.
 
-👉 [Practice on Udemy]({{UDEMY_COURSE_URL}})
+👉 [Practice on Udemy]({{https://www.udemy.com/course/draft/7307777/?referralCode=9F455BD5CACE13156124}})
 
 Learn → Practice → Review → Improve
 
