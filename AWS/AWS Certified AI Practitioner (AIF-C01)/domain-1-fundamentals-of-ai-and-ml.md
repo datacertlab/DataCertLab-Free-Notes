@@ -1,4 +1,9 @@
 # Domain 1 — Fundamentals of AI and Machine Learning
+---
+
+*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
+
+---
 
 **20% of the scored exam — around 10 of the 50 questions that count.**
 
