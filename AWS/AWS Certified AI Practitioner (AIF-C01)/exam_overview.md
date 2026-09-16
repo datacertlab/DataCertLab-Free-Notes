@@ -19,9 +19,9 @@ full-length tests, 65 questions each, weighted 20/25/28/14/14 across the five do
 real exam is. Every question explains why the key is correct and why each other option is not, with
 a link to the AWS documentation the answer rests on.
 
-<a href="https://www.udemy.com/course/dcl-aws-certified-ai-practitioner-aif-c01-practice-tests/?referralCode=9F455BD5CACE13156124" target="_blank" rel="noopener noreferrer">
-  Take the AWS AI Practitioner Practice Tests
-</a>
+[👉 Take the practice tests on Udemy](https://www.udemy.com/course/dcl-aws-certified-ai-practitioner-aif-c01-practice-tests/?referralCode=9F455BD5CACE13156124)
+
+> 💡 **Tip:** Open the link in a new tab to keep these notes open for reference.
 
 Read a domain, answer questions on it, then go back to whatever your wrong answers point at. That
 loop beats a second read-through.
