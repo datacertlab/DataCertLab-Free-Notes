@@ -1,14 +1,5 @@
 # AWS Certified AI Practitioner (AIF-C01) — Exam Overview and Strategy
 
----
-
-*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
-
----
-
-Everything you need to know about the exam itself, before you start studying for it. Read this once,
-then come back to the time strategy the day before you sit.
-
 This guide tracks **exam guide version 1.1, published 30 April 2026**. That matters more than usual
 right now — see [What changed in version 1.1](#what-changed-in-version-11).
 
