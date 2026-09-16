@@ -344,6 +344,18 @@ Your feedback helps us keep the material useful and up to date.
 
 ---
 
+## License
+
+Unless otherwise stated, original educational content created by DataCertLab
+is licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt the material, including for commercial purposes,
+provided appropriate attribution is given to DataCertLab and changes are indicated.
+
+Third-party trademarks, documentation, images, and referenced materials remain
+the property of their respective owners and are not covered by this license.
+
 ### DataCertLab
 
 **Learn the technology. Understand the concepts. Prepare with confidence.**
