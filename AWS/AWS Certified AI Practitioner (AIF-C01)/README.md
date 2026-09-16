@@ -1,5 +1,11 @@
 # AWS Certified AI Practitioner (AIF-C01) — Exam Overview and Strategy
 
+---
+
+*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
+
+---
+
 Everything you need to know about the exam itself, before you start studying for it. Read this once,
 then come back to the time strategy the day before you sit.
 
@@ -360,9 +366,3 @@ What we can say:
 
 **A sensible target:** aim for 80% or better on the official practice test before you book. That
 leaves room for the real exam to be a little harder than practice, and for one domain to go badly.
-
----
-
-*This overview is built from the official AWS exam guide (version 1.1, 30 April 2026) and from
-measuring AWS's own official practice test for this exam. It describes the exam, not its content —
-nothing here is a recalled or reproduced exam question.*
