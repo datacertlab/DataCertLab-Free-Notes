@@ -1,5 +1,9 @@
 # Domain 5 — Security, Compliance, and Governance for AI Solutions
+---
 
+*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
+
+---
 This domain is 14 percent of the scored exam. It names more AWS services than any other
 block of the guide, and almost every question is decided by knowing which one of two
 similar services answers the question the stem actually asked.
