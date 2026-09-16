@@ -11,22 +11,6 @@ These notes cover what the exam asks about. They cannot tell you whether you can
 answer in ninety seconds with four plausible options in front of you. That is a separate skill, and
 it is the one the exam scores.
 
-The DataCertLab **AIF-C01 practice tests** are built from the same blueprint as these notes: five
-full-length tests, 65 questions each, weighted 20/25/28/14/14 across the five domains exactly as the
-real exam is. Every question explains why the key is correct and why each other option is not, with
-a link to the AWS documentation the answer rests on.
-
-[👉 Take the practice tests on Udemy](https://www.udemy.com/course/dcl-aws-certified-ai-practitioner-aif-c01-practice-tests/?referralCode=9F455BD5CACE13156124)
-
-> 💡 **Tip:** Open the link in a new tab to keep these notes open for reference.
-
-Read a domain, answer questions on it, then go back to whatever your wrong answers point at. That
-loop beats a second read-through.
-
-Learn → Practice → Review → Improve
-
----
-
 ## The exam at a glance
 
 | | |
@@ -286,6 +270,22 @@ Use these first. Everything else is someone's interpretation of these.
   account covers a lot of it.
 - **AWS service documentation** — for every service in the exam guide's in-scope list, read the
   "What is..." page. That page alone answers most recall questions.
+
+---
+
+The DataCertLab **AIF-C01 practice tests** are built from the same blueprint as these notes: five
+full-length tests, 65 questions each, weighted 20/25/28/14/14 across the five domains exactly as the
+real exam is. Every question explains why the key is correct and why each other option is not, with
+a link to the AWS documentation the answer rests on.
+
+[👉 Take the practice tests on Udemy](https://www.udemy.com/course/dcl-aws-certified-ai-practitioner-aif-c01-practice-tests/?referralCode=9F455BD5CACE13156124)
+
+> 💡 **Tip:** Open the link in a new tab to keep these notes open for reference.
+
+Read a domain, answer questions on it, then go back to whatever your wrong answers point at. That
+loop beats a second read-through.
+
+Learn → Practice → Review → Improve
 
 ---
 
