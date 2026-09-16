@@ -1,5 +1,9 @@
 # Domain 4 — Guidelines for Responsible AI
+---
 
+*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
+
+---
 This domain is 14 percent of the scored exam. It is the lightest block by weight and the
 heaviest by vocabulary: most questions here are decided by which of two similar-sounding
 words the stem happened to use.
