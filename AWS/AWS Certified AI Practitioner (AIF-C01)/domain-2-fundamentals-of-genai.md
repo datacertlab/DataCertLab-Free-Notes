@@ -484,8 +484,3 @@ Finished this domain? Put your knowledge into practice with the DataCertLab AIF-
 > 💡 **Tip:** Open the link in a new tab to keep these notes open for reference.
 
 Learn → Practice → Review → Improve
-
----
-
-*Sources: the official AWS Certified AI Practitioner exam guide (version 1.1) and current AWS
-service documentation, retrieved 14 August 2026.*
