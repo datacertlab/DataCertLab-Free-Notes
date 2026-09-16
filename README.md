@@ -64,8 +64,6 @@ Certification
 │
 ├── Domain 3
 │   └── ...
-│
-└── Final Revision
 ```
 
 The objective is to make the repository useful not only during certification preparation, but also as a **technical reference after the exam**.
