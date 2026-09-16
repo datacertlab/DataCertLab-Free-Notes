@@ -480,7 +480,8 @@ catches the remainder.
 
 Finished this domain? Put your knowledge into practice with the DataCertLab AIF-C01 Practice Tests.
 
-👉 [Practice on Udemy]({{UDEMY_COURSE_URL}})
+👉 [Practice on Udemy](https://www.udemy.com/course/dcl-aws-certified-ai-practitioner-aif-c01-practice-tests/?referralCode=9F455BD5CACE13156124)
+> 💡 **Tip:** Open the link in a new tab to keep these notes open for reference.
 
 Learn → Practice → Review → Improve
 
