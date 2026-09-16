@@ -50,7 +50,7 @@ A typical learning path looks like:
 ```text
 Certification
 │
-├── Exam Overview
+├── Exam Overview(README)
 │
 ├── Domain 1
 │   ├── Concept
