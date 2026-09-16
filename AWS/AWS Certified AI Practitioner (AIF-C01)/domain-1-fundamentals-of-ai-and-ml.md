@@ -552,11 +552,7 @@ Each of these is a portable rule. The wording will change; the trap will not.
 
 Finished this domain? Put your knowledge into practice with the DataCertLab AIF-C01 Practice Tests.
 
-👉 [Practice on Udemy]({{https://www.udemy.com/course/draft/7307777/?referralCode=9F455BD5CACE13156124}})
+👉 [Practice on Udemy](https://www.udemy.com/course/dcl-aws-certified-ai-practitioner-aif-c01-practice-tests/?referralCode=9F455BD5CACE13156124)
+> 💡 **Tip:** Open the link in a new tab to keep these notes open for reference.
 
 Learn → Practice → Review → Improve
-
----
-
-*Sources: the official AWS Certified AI Practitioner exam guide (version 1.1) and current AWS
-service documentation, retrieved 12 August 2026.*
