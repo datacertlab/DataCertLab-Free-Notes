@@ -1,4 +1,9 @@
 # Domain 2 — Fundamentals of Generative AI
+---
+
+*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
+
+---
 
 This domain is 24 percent of the scored exam, second only to Domain 3. It is mostly
 vocabulary and service boundaries, and the boundaries are where the marks are.
