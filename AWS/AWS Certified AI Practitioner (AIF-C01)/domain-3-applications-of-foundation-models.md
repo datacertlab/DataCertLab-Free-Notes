@@ -1,5 +1,9 @@
 # Domain 3 — Applications of Foundation Models
+---
 
+*This is updated as per the official AWS exam guide (version 1.1, 30 April 2026)*
+
+---
 This domain is 28 percent of the scored exam, the heaviest single block. It is where the
 exam stops asking what things are and starts asking which one you would reach for.
 
